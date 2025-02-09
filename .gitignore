@@ -3,3 +3,8 @@ dist/
 .env
 *.log
 .DS_Store
+.sf/
+.sfdx/
+force-app/
+sf-org/
+config/
